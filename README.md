@@ -12,6 +12,7 @@ List of Tech Communities in Nepal on Github.
 - [Kathmandu Javascript User Group](https://github.com/developers-nepal/ktmjs)
 - [Kathmandu Living Labs](https://github.com/KathmanduLivingLabs) 
 - [KEC Developers Circle](https://github.com/kec-developers-circle)
+- [KEC IT Club](https://github.com/kec-it-club)
 - [LOCUS IOE, Pulchowk](https://github.com/locus-ioe)
 - [Mozilla Nepal](https://github.com/moz-np)
 - [Nepal Open Source Club](https://github.com/openosk)
