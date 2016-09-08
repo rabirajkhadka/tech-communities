@@ -20,8 +20,10 @@ List of Tech Communities in Nepal on Github.
 - [Papers We Love: Kathmandu](https://github.com/papers-we-love/kathmandu)
 - [Prepare Pokhara](https://github.com/PreparePokhara)
 - [Python Users Group Nepal](https://github.com/PythonNepal)
+- [Robotics Association of Nepal](https://facebook.com/groups/nepal.ran)
 - [Robotics Club WRC](https://github.com/wrcrobo)
 - [Ruby Nepal](https://github.com/RubyNepal)
+- [AR/VR Developers Nepal](https://www.facebook.com/groups/161612194238947)(https://github.com/vrnepal)
 - [Wordpress Nepal](https://github.com/wpnepal)
 
 
