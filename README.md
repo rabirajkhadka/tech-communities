@@ -2,6 +2,8 @@
 List of Tech Communities in Nepal on Github.
 
 # Communities
+
+- [AR/VR Developers Nepal](https://github.com/vrnepal)(https://www.facebook.com/groups/161612194238947)
 - [Code for Nepal](https://github.com/codefornepalorg)
 - [Developers Nepal](https://github.com/developers-nepal)
 - [DWIT Software Club](https://github.com/softwareclub)
@@ -23,7 +25,6 @@ List of Tech Communities in Nepal on Github.
 - [Robotics Association of Nepal](https://facebook.com/groups/nepal.ran)
 - [Robotics Club WRC](https://github.com/wrcrobo)
 - [Ruby Nepal](https://github.com/RubyNepal)
-- [AR/VR Developers Nepal](https://www.facebook.com/groups/161612194238947)(https://github.com/vrnepal)
 - [Wordpress Nepal](https://github.com/wpnepal)
 
 
