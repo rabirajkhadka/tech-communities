@@ -1,8 +1,7 @@
 # Tech-Communities
-List of Tech Communities in Nepal on Github.
+List of Tech Communities in Nepal on Github and Facebook.
 
 # Communities
-
 - [AR/VR Developers Nepal](https://github.com/vrnepal)(https://www.facebook.com/groups/161612194238947)
 - [Code for Nepal](https://github.com/codefornepalorg)
 - [Developers Nepal](https://github.com/developers-nepal)
